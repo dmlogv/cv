@@ -1,5 +1,16 @@
 # Дмитрий Анатольевич Логвиненко
 
+## Личная информация
+
+- 26 лет, женат
+
+## Контактная информация
+
+- `tel:` +7 (962) 878-33-84 
+- `email:` dlogvinenko@gmail.com
+- `skype:` dmlogv
+- `linkedin:` https://www.linkedin.com/in/dmitrylogvinenko/
+
 ## Навыки и интересы
 
 Кратко о навыках:

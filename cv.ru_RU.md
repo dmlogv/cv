@@ -6,10 +6,12 @@
 
 ## Контактная информация
 
-- `tel:` +7 (962) 878-33-84 
-- `email:` dlogvinenko@gmail.com
-- `skype:` dmlogv
-- `linkedin:` https://www.linkedin.com/in/dmitrylogvinenko/
+| Method | Address |
+| -: | - |
+| `tel` | [+7 (962) 878-33-84](tel:+79628783384)  |
+| `email` | dlogvinenko@gmail.com |
+| `skype` | [dmlogv](skype:dmlogv?call) |
+| `linkedin` | https://www.linkedin.com/in/dmitrylogvinenko/ |
 
 
 ## Навыки и интересы

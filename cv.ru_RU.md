@@ -17,10 +17,10 @@
 Кратко о навыках:
 
 - Активные знания:
-    - Python для автоматизации (как замена Bash), общения с REST, визуализации (matplotlib).
+    - Python для автоматизации (как замена Bash), общения с REST, визуализации (`matplotlib`), процессинга данных (`numpy`, `pandas`).
     - Разработка и администрирование Microsoft SQL Server (оптимизация, процедуры).
-    - Создание ETL-процессов с помощью SQL Server Integration Services (SSIS), Informatica  PowerCenter.
-    - Docker, docker-compose, Gitlab CI.
+    - Создание ETL-процессов с помощью Airflow, SQL Server Integration Services (SSIS), Informatica  PowerCenter.
+    - Docker, `docker-compose`, Gitlab CI.
     - Linux, Bash.
 - Имелся опыт:
     - С# для работы с SQL Server (CLR-процедуры, работа с SMO).
@@ -29,13 +29,13 @@
 Кратко о процессах:
 
 - Работал, плюясь, с большой монорепкой в SVN. Участвовал в переезд проектов и умов в Git (Gitlab).
-- Вел задачи в Redmine, в том числе через API.
+- Вел задачи в Redmine, в основном числе через API.
 - Могу поддержать разговор о лютом Waterfall, немного о Scrum, много о Kanban, Andon, Pair programming и всяких Pomodoro-х.
 
 Кратко об интересах (в том числе, на которых нет времени):
 
 - Автоматизация рутины.
-- Python (внутренности), Go (удобная многопоточность).
+- Python (внутренности), Go (многопоточность).
 - Анализ данных, ML, нейросети.
 
 

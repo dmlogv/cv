@@ -3,11 +3,11 @@
 
 | Method | Address |
 | -: | - |
-| `tel` | [+7 (962) 878-33-84](tel:+79628783384)  |
-| `email` | dlogvinenko@gmail.com |
+| `tel` | [+7 (962) 878-33-84](tel:+79628783384) |
+| `email` | dmlogv@gmail.com |
+| `tg` | [@dmlogv](https://t.me/dmlogv) |
 | `skype` | [dmlogv](skype:dmlogv?call) |
-| `linkedin` | https://www.linkedin.com/in/dmitrylogvinenko/ |
-
+| `linkedin` | https://www.linkedin.com/in/dmlogv/ |
 
 ## Навыки и интересы
 

@@ -5,4 +5,4 @@ Dmitry Logvinenko's Curriculum vitæ
 
 # Contents
 
-- [CV (Русский)](cv.ru_RU.md)
+- [CV (Русский)](cv.ru.md)

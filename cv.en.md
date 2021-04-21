@@ -4,7 +4,7 @@ Python-developer, Data Engineer.
 
 ## Summary
 
-Passionate engineer with over 10 years of experience in application development and improvement, database and ETL development, developer and project management. 
+Passionate engineer with 10+ years of experience in software, databases and data pipelines development. 
 
 
 ### Contacts
@@ -20,8 +20,8 @@ Passionate engineer with over 10 years of experience in application development 
 
 ### Publications
 
-- [Apache Airflow: делаем ETL проще 🇷🇺](https://habr.com/ru/post/512386/)
-- [Назад к истокам: рулим компьютером прямо из MBR 🇷🇺](https://habr.com/ru/post/490094/)
+- [Apache Airflow: making pipelines easier 🇷🇺](https://habr.com/ru/post/512386/)
+- [Back to sources: operate your PC directly from the MBR 🇷🇺](https://habr.com/ru/post/490094/)
 
 
 ### Misc
@@ -48,6 +48,7 @@ Passionate engineer with over 10 years of experience in application development 
 
 > Feb 2019—Jun 2019
 
+- Managed a team of 10+ software engineers.
 - Implemented a computation cluster based on Apache Ignite to improve the performance of the Retail ordering system (ROS).
 - Created and administrated MongoDB sharded cluster to optimize ROS storage.
 - Built and maintained an infrastructure of Docker images for testing and CI/CD of SQL Server/Data Tools projects.
@@ -71,10 +72,11 @@ Passionate engineer with over 10 years of experience in application development 
 **Key achievements**: Reduced the number of manual steps when deploying projects by 70%. Reduced notification costs by 53,000 USD per year.
 
 
-### Software Team Leader at _Magnit_ (retail company)
+### Team Leader at _Magnit_ (retail company)
 
 > Feb 2017—Jan 2018
 
+- Managed a team of 8+ software developers.
 - Refactored retail forecasting system, made structure and security improvements, fixed performance issues (Java).
 - Migrated computation modules from SQL Server stored procedures to C# services.
   

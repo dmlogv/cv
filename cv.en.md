@@ -32,7 +32,7 @@ Passionate engineer with 10+ years of experience in software, databases and data
 
 
 ## Experience
-### Data Engineer at _Vezet_ (taxi aggregator)
+### Data Engineer at _Vezet_ (vehicle for hire)
 
 > Jul 2019—present
     
@@ -44,7 +44,7 @@ Passionate engineer with 10+ years of experience in software, databases and data
 **Key achievements**: 20% increased in DWH and BI performance, reached over 90% data quality.
 
 
-### Team leader at _Magnit_ (retail company)
+### Team leader at _Magnit_ (retailer)
 
 > Feb 2019—Jun 2019
 
@@ -56,7 +56,7 @@ Passionate engineer with 10+ years of experience in software, databases and data
 **Key achievements**: 12% less CPU time and memory consumption of ROS and improve fault tolerance. Accelerated development and testing of SQL Server projects by 30% in average.
 
 
-### System architect and PM at _Magnit_ (retail company)
+### System architect and PM at _Magnit_ (retailer)
 
 > Jan 2018—Jan 2019
 
@@ -72,7 +72,7 @@ Passionate engineer with 10+ years of experience in software, databases and data
 **Key achievements**: Reduced the number of manual steps when deploying projects by 70%. Reduced notification costs by 53,000 USD per year.
 
 
-### Team Leader at _Magnit_ (retail company)
+### Team Leader at _Magnit_ (retailer)
 
 > Feb 2017—Jan 2018
 
@@ -83,7 +83,7 @@ Passionate engineer with 10+ years of experience in software, databases and data
 **Key achievements**: Saved about 600 man-hours per year.
 
 
-### Middle database and ETL developer at _Magnit_ (retail company)
+### Middle database and ETL developer at _Magnit_ (retailer)
 
 > Dec 2015—Feb 2017
 
@@ -94,7 +94,7 @@ Passionate engineer with 10+ years of experience in software, databases and data
 **Key achievements**: Reduced SLA Misses of ETL processes by 24%.
 
 
-### Middle software developer at _Magnit_ (retail company)
+### Middle software developer at _Magnit_ (retailer)
 
 > Jun 2015—Dec 2015
 

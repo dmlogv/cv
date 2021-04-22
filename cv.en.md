@@ -124,9 +124,8 @@ Passionate engineer with 10+ years of experience in software, databases and data
 
 > Sep 2008—Jul 2012
 
-- Software Engineering
-
-Papers:  
+- **Software Engineering**
+- Papers:
   - _Term paper:_ Design of relational database for the college timetable generation.
   - _Term paper:_ Concepts of mathematical modelling.
   - _Thesis:_ Online testing system.

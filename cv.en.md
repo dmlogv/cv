@@ -1,6 +1,6 @@
 # Dmitry Logvinenko
 
-Python-developer, Data Engineer.
+Data Engineer, Python-developer.
 
 ## Summary
 

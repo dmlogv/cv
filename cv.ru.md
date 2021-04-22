@@ -1,6 +1,6 @@
 # Дмитрий Логвиненко
 
-Python-разработчик, Data Engineer.
+Data Engineer, Python-разработчик.
 
 ## Обо мне
 

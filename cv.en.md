@@ -4,7 +4,9 @@ Data Engineer, Python-developer.
 
 ## Summary
 
-Passionate engineer with 10+ years of experience in software, databases and data pipelines development. 
+Passionate engineer with 10+ years of experience in software, databases and data pipelines development.
+
+`Airflow` `Bash` `ClickHouse` `Docker` `DWH` `ETL` `Gitlab` `CI` `Linux` `MongoDB` `Pandas` `PostgreSQL` `Python` `SQL` `SQL Server` `Vertica` 
 
 
 ### Contacts

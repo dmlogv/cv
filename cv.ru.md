@@ -6,6 +6,8 @@ Data Engineer, Python-разработчик.
 
 Увлеченный инженер-программист с более чем десятилетним опытом в разработке программного обеспечения, баз данных, ETL-процессов и управлении IT-проектами и разработчиками.
 
+`Airflow` `Bash` `ClickHouse` `Docker` `DWH` `ETL` `Gitlab` `CI` `Linux` `MongoDB` `Pandas` `PostgreSQL` `Python` `SQL` `SQL Server` `Vertica` 
+
 
 ### Контакты
 

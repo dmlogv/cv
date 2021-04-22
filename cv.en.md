@@ -29,6 +29,7 @@ Passionate engineer with 10+ years of experience in software, databases and data
 - Location: Russia, **Krasnodar** (UTC+3)
   - 🚫 Relocation
   - ✅ Remote
+- English Level: **Intermediate**.
 
 
 ## Experience

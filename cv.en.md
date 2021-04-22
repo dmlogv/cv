@@ -53,7 +53,7 @@ Passionate engineer with 10+ years of experience in software, databases and data
 - Created and administrated MongoDB sharded cluster to optimize ROS storage.
 - Built and maintained an infrastructure of Docker images for testing and CI/CD of SQL Server/Data Tools projects.
   
-**Key achievements**: 12% less CPU time and memory consumption of ROS and improve fault tolerance. Accelerated development and testing of SQL Server projects by an average of 30%.
+**Key achievements**: 12% less CPU time and memory consumption of ROS and improve fault tolerance. Accelerated development and testing of SQL Server projects by 30% in average.
 
 
 ### System architect and PM at _Magnit_ (retail company)
@@ -126,6 +126,6 @@ Passionate engineer with 10+ years of experience in software, databases and data
 - Software Engineering
 
 Papers:  
-  - _Term paper:_ Design of relational database for the generation of college timetable.
+  - _Term paper:_ Design of relational database for the college timetable generation.
   - _Term paper:_ Concepts of mathematical modelling.
   - _Thesis:_ Online testing system.

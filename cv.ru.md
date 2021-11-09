@@ -6,7 +6,7 @@ Data Engineer, Python-разработчик.
 
 Увлеченный инженер-программист с более чем десятилетним опытом в разработке программного обеспечения, баз данных, ETL-процессов и управлении IT-проектами и разработчиками.
 
-`Airflow` `Bash` `ClickHouse` `Docker` `DWH` `ETL` `Gitlab` `CI` `Linux` `MongoDB` `Pandas` `PostgreSQL` `Python` `SQL` `SQL Server` `Vertica` 
+`Airflow` `Bash` `ClickHouse` `Docker` `DWH` `ETL` `Gitlab CI` `Hadoop` `Linux` `MongoDB` `Pandas` `PostgreSQL` `Python` `PySpark` `SQL` `SQL Server` `Vertica` 
 
 
 ### Контакты
@@ -35,14 +35,25 @@ Data Engineer, Python-разработчик.
 
 
 ## Опыт работы
-### Data Engineer, Группа компаний «Везёт»
+### Разработчик Data Warehouse, MY.GAMES (VK Group, ex-Mail.ru Group)
 
-> Июль 2019 — по настоящее время
+> Июнь 2021 — по настоящее время
 
 - Роли:
   - Разработчик
-- Что делаю и сделал:
-  - Разрабатываю ETL-процессы на Airflow (Python, `pandas` + всё необходимое), собирая данные из разнообразных источников (production-БД PostgreSQL, Microsoft SQL Server, сторонних сервисов по типу Amplitude, Sumsub, стримов собственных решений из Kafka, даже из 1С) в DWH/ODS на Vertica и Clickhouse, по дороге всё администрируя.
+- Что делаю:
+  - Разрабатываю и поддерживаю Data Warehouse на базе Hadoop-стека (HDFS, Hive, Impala), ETL-процессы на Airflow, PySpark.
+  - Участвую в разработке высоконагруженного инструмента обработки данных полного цикла (Python, Hadoop).
+
+
+### Data Engineer, Группа компаний «Везёт»
+
+> Июль 2019 — май 2021
+
+- Роли:
+  - Разработчик
+- Что делал и сделал:
+  - Разрабатывал ETL-процессы на Airflow (Python, `pandas` + всё необходимое), собирая данные из разнообразных источников (production-БД PostgreSQL, Microsoft SQL Server, сторонних сервисов по типу Amplitude, Sumsub, стримов собственных решений из Kafka, даже из 1С) в DWH/ODS на Vertica и Clickhouse, по дороге всё администрируя.
   - Разработал собственные средства мониторинга (Telegram API, Flask, Docker), когда штатных решений Airflow уже не хватало, но полная интеграция в Prometheus/Grafana еще была оверкиллом.
   - Переписывал write-only Bash-сервисы, обслуживающие наши БД, на красивый, безопасный и удобный код — под крыло Airflow.
   - Яростно рефакторил внутренние Python-библиотеки обработки данных, написанные на скорую руку и/или Data Scientist'ами.

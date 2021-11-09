@@ -6,7 +6,7 @@ Data Engineer, Python-developer.
 
 Passionate engineer with 10+ years of experience in software, databases and data pipelines development.
 
-`Airflow` `Bash` `ClickHouse` `Docker` `DWH` `ETL` `Gitlab` `CI` `Linux` `MongoDB` `Pandas` `PostgreSQL` `Python` `SQL` `SQL Server` `Vertica` 
+`Airflow` `Bash` `ClickHouse` `Docker` `DWH` `ETL` `Gitlab CI` `Hadoop` `Linux` `MongoDB` `Pandas` `PostgreSQL` `Python` `PySpark` `SQL` `SQL Server` `Vertica` 
 
 
 ### Contacts
@@ -35,9 +35,18 @@ Passionate engineer with 10+ years of experience in software, databases and data
 
 
 ## Experience
+### Data Warehouse Developer, MY.GAMES (VK Group, ex-Mail.ru Group)
+
+> Jun 2021—present
+
+- Developed and enhanced Data Warehouse based on the Hadoop stack (HDFS, Hive, Impala).
+- Developed ETL-processes using Apache Airflow (Python, PySpark).
+- Developed data intensive ETL tool the perform a complete data processing cycle (Python, Hadoop).
+
+
 ### Data Engineer at _Vezet_ (vehicle for hire)
 
-> Jul 2019—present
+> Jul 2019—May 2021
     
 - Developed and enhanced ETL-processes using Apache Airflow (Python, `pandas`, `numpy`, `jupyter` etc), collecting data from over 200 sources (PostgreSQL, Microsoft SQL Server, 3-rd party services such as Amplitude, Sumsub, Kafka and SAP-like systems) in Vertica and Clickhouse DWH/ODS.
 - Developed monitoring system to control service performance and data quality  (Telegram API, Flask, Docker).

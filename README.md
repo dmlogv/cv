@@ -11,7 +11,7 @@ Dmitry Logvinenko's Curriculum vitæ
 
 ## Skills
 
-`Airflow` `Bash` `ClickHouse` `Docker` `DWH` `ETL` `Gitlab` `CI` `Linux` `MongoDB` `Pandas` `PostgreSQL` `Python` `SQL` `SQL Server` `Vertica` 
+`Airflow` `Bash` `ClickHouse` `Docker` `DWH` `ETL` `Gitlab CI` `Hadoop` `Linux` `MongoDB` `Pandas` `PostgreSQL` `Python` `PySpark` `SQL` `SQL Server` `Vertica` 
 
 
 ## Contents

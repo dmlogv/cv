@@ -29,15 +29,23 @@ Passionate engineer with 10+ years of experience in software, databases and data
 ### Misc
 
 - Location: Russia, **Krasnodar** (UTC+3)
-  - 🚫 Relocation
+  - ✅ Relocation
   - ✅ Remote
 - English Level: **Intermediate** (B1).
 
 
 ## Experience
+### Data Engineer, Koshelek.app
+
+> Dec 2022—present
+
+- Developed and enhanced Data Warehouse based on the Clickhouse and Greenplum
+- Developed ETL-processes using Apache Airflow, Flink, Ni-Fi.
+
+
 ### Data Warehouse Developer, MY.GAMES (VK Group, ex-Mail.ru Group)
 
-> Jun 2021—present
+> Jun 2021—Nov 2022
 
 - Developed and enhanced Data Warehouse based on the Hadoop stack (HDFS, Hive, Impala).
 - Developed ETL-processes using Apache Airflow (Python, PySpark).

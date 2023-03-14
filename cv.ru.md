@@ -35,15 +35,26 @@ Data Engineer, Python-разработчик.
 
 
 ## Опыт работы
-### Разработчик Data Warehouse, MY.GAMES (VK Group, ex-Mail.ru Group)
+### Data Engineer, «Кошелёк»
 
-> Июнь 2021 — по настоящее время
+> Декабрь 2022 — по настоящее время
 
 - Роли:
   - Разработчик
 - Что делаю:
-  - Разрабатываю и поддерживаю Data Warehouse на базе Hadoop-стека (HDFS, Hive, Impala), ETL-процессы на Airflow, PySpark.
-  - Участвую в разработке высоконагруженного инструмента обработки данных полного цикла (Python, Hadoop).
+  - Разрабатываю ETL на базе Apache Airflow, Flink, Ni-Fi.
+  - Разрабатываю и поддерживаю хранилище данных на Clickhouse, Greenplum.
+
+
+### Разработчик Data Warehouse, MY.GAMES (VK Group, ex-Mail.ru Group)
+
+> Июнь 2021 — ноябрь 2022
+
+- Роли:
+  - Разработчик
+- Что делал и сделал:
+  - Разрабатывал и поддерживал Data Warehouse на базе Hadoop-стека (HDFS, Hive, Impala), ETL-процессы на Airflow, PySpark.
+  - Участвовал в разработке высоконагруженного инструмента обработки данных полного цикла (Python, Hadoop).
 
 
 ### Data Engineer, Группа компаний «Везёт»
